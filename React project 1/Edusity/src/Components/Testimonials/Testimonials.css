@@ -60,10 +60,11 @@
     align-items: center;
     margin-bottom: 20px;
     font-size: 15px;
+    color: #fff;
 }
 
 .user-info h3{
-    color: #f6f6f6;
+    color: #ffffff;
 }
 
  p{
